@@ -1,0 +1,1 @@
+Git is a distributed version control system (DVCS) used for tracking changes in source code during software development. It was created by Linus Torvalds in 2005 and has since become one of the most widely used version control systems in the world. Git is particularly popular among software developers and teams for managing and collaborating on code projects efficiently.
